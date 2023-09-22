@@ -9,7 +9,7 @@ export class Game extends Phaser.Scene{
 		this.load.image("star", "ball.gif");
 		this.load.image("ball", "ball.png");
 		this.load.image("platform", "square2.png");
-		this.load.image("limits", "platform.png");
+		this.load.image("limits", "square2.png");
 		this.load.image("sky", "sky.png");
 		this.load.image("bomb", "bomb.png");
 		this.load.image("final", "final.png");
